@@ -4,9 +4,7 @@
 This project demonstrates hosting a static HTML page on **AWS S3** and delivering it via **CloudFront** for HTTPS and faster performance. The website is a simple "Hello, AWS!" page.
 
 ## Live URL
-[View Live Website](https://d1234abcd.cloudfront.net)
-
-*(Replace the URL above with your actual CloudFront domain if it’s different.)*
+[View Live Website](https://d2pe636vlt48lw.cloudfront.net)
 
 ## Project Structure
 aws-s3-static-website/
